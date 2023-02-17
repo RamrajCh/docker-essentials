@@ -27,7 +27,7 @@ docker container logs [container_id]
 ```
 `[container_id]` can be obtained by running the command
 ```bash
-docker image ls
+docker container ls
 ```
 7. Remove the containers
 ```bash
